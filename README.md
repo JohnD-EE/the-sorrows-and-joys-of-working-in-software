@@ -5,14 +5,13 @@ A book to help people in the Software Engineering ecosystem to navigate the non-
 | :--- |
 | Work in Progress |
 
-[Table of Contents](toc.md)
+## Contents
 
 * [Preface](preface.md)
 * [Introduction](introduction.md)
 
 ### Section I: I
 You as a human being, with your many quirks and frailties.
-
 "The computer can't tell you the emotional story. It can give you the exact mathematical design, but what's missing is the eyebrows" - Frank Zappa
 
 * [Chapter 1: Beasts](ch1-beasts.md)
@@ -21,7 +20,6 @@ You as a human being, with your many quirks and frailties.
 
 ### Section II: We
 When we bring ourselves into contact with others
-
 "Hell is other people" - Jean-Paul Sartre
 
 * [Chapter 4: Drama](ch4-drama.md)
@@ -30,7 +28,6 @@ When we bring ourselves into contact with others
 
 ### Section III: Its
 Being part of something bigger
-
 "Welcome to the Machine" - Pink Floyd
 
 * [Chapter 7: Machines](ch7-machines.md)
@@ -39,7 +36,6 @@ Being part of something bigger
 
 ### Section IV: It
 The actual work of Software Engineering
-
 “The real problem of humanity is the following: We have Paleolithic emotions, medieval institutions and godlike technology.  And it is terrifically dangerous, and it is now approaching a point of crisis overall.” - E. O Wilson
 
 * [Chapter 10: Function](ch10-function.md)
