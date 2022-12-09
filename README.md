@@ -25,7 +25,7 @@ A book to help people in the Software Engineering ecosystem to navigate the non-
 * [Chapter 6: Interbeing](ch6-interbeing.md)
 
 ### Section III: 'Its' - Being part of something bigger
-> "Welcome to the Machine." - Pink Floyd
+> "So welcome to the machine." - Pink Floyd
 
 * [Chapter 7: Machines](ch7-machines.md)
 * [Chapter 8: Systems](ch8-systems.md)
