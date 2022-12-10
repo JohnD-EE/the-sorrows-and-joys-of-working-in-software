@@ -8,8 +8,8 @@ Here we reveal the joy of aspiring to a higher ideal in our craft, carefully pro
 ## Joys
 This book, according to the title, is supposed to be about the sorrows and the joys of working in software.  Whether due to my own personal outlook, or the nature of working in software, the book is actually heavily weighted towards the sorrows.  The cynic is the wounded idealist, but here we can throw off some of the pessimistic shackles and indulge in the joyful, the beautiful, the inspirational, the divine side of building software.
 
-## Creativity
-The virtual blank canvass.
+## Self Expression
+The virtual blank canvass.  Creativity of the artist.
 
 ## Flow
 
