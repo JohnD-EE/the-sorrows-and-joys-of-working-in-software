@@ -26,6 +26,8 @@ As Cyborg Anthropologist, Amber Case, argues, we're already cyborgs.  She posits
 
 ## Acts of Ommission
 
+## Transhumanism
+
 ## Technocratic Totalitariansm
 I thought it would ironic to ask the OpenAI GPT Chat system to 'Tell me about Technocratic Totalitarianism'
 
