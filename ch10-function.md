@@ -15,9 +15,13 @@ This chapter covers the core job of Software Engineering depatments: to build, t
 
 ## Translation
 
+## Discovery
+
 ## First Principles
 
 ## Viability
+
+## Design
 
 ## Tooling
 
