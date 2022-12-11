@@ -26,6 +26,17 @@ As Cyborg Anthropologist, Amber Case, argues, we're already cyborgs.  She posits
 
 ## Acts of Ommission
 
+## Technocratic Totalitariansm
+I thought it would ironic to ask the OpenAI GPT Chat system to 'Tell me about Technocratic Totalitarianism'
+
+> Technocratic totalitarianism is a hypothetical political system in which technology is used to exercise complete control over society. In a technocratic totalitarian system, the state would use advanced technology to monitor and regulate every aspect of individuals' lives, from their personal behavior and beliefs to their economic and political activities.
+
+> The idea of technocratic totalitarianism is based on the belief that technology can be used to achieve a highly efficient and orderly society, in which individuals are carefully monitored and controlled in order to maximize social and economic productivity. In this system, the state would have complete control over the use of technology, and would use it to track and monitor individuals' behavior and activities in order to maintain social order and control.
+
+> Critics of technocratic totalitarianism argue that such a system would be highly oppressive and would violate individuals' basic rights and freedoms. They argue that the use of technology to exercise total control over society would result in a lack of personal autonomy and a loss of privacy, and would ultimately undermine the very foundations of democracy and liberty.
+
+> Overall, technocratic totalitarianism is a hypothetical political system in which technology is used to exercise complete control over society. While some may see this as a means of achieving a highly efficient and orderly society, others believe that such a system would be highly oppressive and would violate individuals' basic rights and freedoms.
+
 ## Sphere of Influence
 Sphere of influecne is a more socially acceptable way of talking about the idea of power, and the power we have to influence other people.  Our power is determined by many factors including our skills and abilities, our knowledge over the domain in question, our credibility, our social networks, and our overall standing in the dominance hierarchy society.  Unless you are Elon Musk reading these words, or similarly connected those pulling the stings of global influence, it is unlikely that you are able to make a significant impact on the moral and ethical concerns of the world.
 
