@@ -19,6 +19,8 @@ The virtual blank canvass.  Creativity of the artist.
 
 ## Kodawari
 
+## Craftsmanship
+
 ## Shaming the Ugly
 
 ## Architectural Carbuncles
