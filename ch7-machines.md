@@ -42,10 +42,13 @@ ToC, developed by Eliyahu Goldratt, focuses on identifying and addressing the co
 Developed by W. Edwards Deming, TQM is based on the idea that quality should be a primary focus throughout the manufacturing process.  In software engineering, Total Quality Management principles can be applied to ensure that software systems are developed to the highest possible quality standards.
 
 ## The Toyota Production System:
-This system, which was developed by the Toyota Motor Corporation, is a set of principles and practices that focus on maximising efficiency and minimising waste in manufacturing processes.  In software engineering, the Toyota Production System can be applied to improve the development process by focusing on continuous improvement and collaboration among team members.
+This system, which was developed by the Toyota Motor Corporation, is a set of principles and practices that focus on maximising efficiency and minimising waste in manufacturing processes.  The Toyota Model refers to a system of manufacturing that emphasises continuous improvement and the involvement of workers in decision-making.  In software engineering, the Toyota Production System can be applied to improve the development process by focusing on continuous improvement and collaboration among team members.  In the context of the factory mindset, the Toyota model may be seen as a more human-centered approach to organising people and companies.
 
 ## Six Signma
 Six Sigma, originally developed by Motorola, focuses on reducing defects and improving the quality of manufactured products.  In software engineering, Six Sigma principles can be applied to improve the reliability and performance of software systems.
+
+## Pulling on Grass
+You can't make grass grow faster by pulling on it.
 
 ## Rules
 
@@ -55,9 +58,6 @@ People may be seen as interchangeable and easily replaceable, like other compone
 ## Ghosts in the Machine
 
 ## Artificial Intelligence
-
-## Toyota Model
-The Toyota Model refers to a system of manufacturing that emphasises continuous improvement and the involvement of workers in decision-making.  In the context of the factory mindset, the Toyota model may be seen as a more human-centered approach to organising people and companies.
 
 ## Change vs Flip Flopping
 
