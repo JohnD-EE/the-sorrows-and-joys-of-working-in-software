@@ -16,14 +16,14 @@ The non-physical part of a being, often considered to be the source of conscious
 ## Emergence
 The emergence of new, complex behaviours or properties from the interactions of simpler components.
 
-## Homeostasis
-The maintenance of a stable internal environment within an organism.
-
 ## Nourishment
 The provision of necessary materials, such as food and water, to an organism to support its own growth and survival.
 
 ## Anitfragility
-The ability of a system to not only withstand stress and shocks, but to actually thrive and become stronger as a result.
+The ability of a system to not only withstand stress and shocks, but to actually thrive and become stronger as a result.  This section explains antifragily, the following sections exapnd on this to investigate ccertain characteristics of an orgnism that can make it antifragile.
+
+## Homeostasis
+The self-regulating maintenance of a stable internal environment within an organism.  In the human body for example, this can involve a range of phisiological processes, such as regulating body temperature, heart rate, blood sugar levels, blood oxidation, pH levels, blood pressure, water balance and a whole range of other physiological functions. The organims actively and unconsciously controls and regulates its own internal behaviours.  There are a whole range of sensors and triggers which act independently to keep the system as a whole in balance.  For many internal processes there is a very fine balance needed in order to ensure the survival of the human body, blood pH for example blood pH must not stray from around 7.35-7.45 in order to keep the blood slightly alkaline and prevent acidosis (low blood pH) or alkalosis (high blood pH).  
 
 ## Self-Healing
 The ability of an organism to repair and regenerate damaged or injured tissues without outside intervention.
@@ -35,6 +35,9 @@ The ability of an organism to produce offspring that are genetically identical t
 
 ## Self-Improving
 The ability of an organism to adapt and evolve over time in response to changes in its environment.
+
+## Self-Defending
+Immune Systems
 
 ## Order and Chaos
 The balance between organised, predictable behaviour and random, unpredictable behaviour within a system.
