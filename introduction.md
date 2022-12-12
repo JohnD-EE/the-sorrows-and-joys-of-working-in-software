@@ -13,17 +13,17 @@ Despite the growing emphasis on non-technical skills, there are few books or res
 ## The Sections and Chapters
 This book is divided into 4 sections, each with 3 chapters.  The sections and their chapters strive for internal coherence so the sections form structural units in which the chapters within follow a progressive path so that the first chapter in a section covers low-level fundamentals, the second chapter widens the scope, and in the third chapter per section we zoom out completely to take the widest possible view.  In each section we are there for taking a journey from concrete realities, zooming out for more abstract possibilities.
 
-### Section 1:
-The first section explores you as a human being, a person.  Who am I? How did I get here? Why do I act the way I do?  How do I work this?  What does it all mean?  We are often our own worst enemy, struggling against ourselves, and repeating the same mistakes over and over.  But life can also be sublime, with moments of awe and wonder, feeling the full flow of existence.  The section explores the bittersweetness of being here now.
+### Section I: 'I, why I do' - You as a human being, with your many quirks and frailties
+The first section, why I do, explores you as a human being, a person.  Who am I? How did I get here? Why do I act the way I do?  How do I work this?  What does it all mean?  We are often our own worst enemy, struggling against ourselves, and repeating the same mistakes over and over.  But life can also be sublime, with moments of awe and wonder, feeling the full flow of existence.  The section explores the bittersweetness of being here now.
 
-### Section 2:
-Section 2 throws other people into the mix and ponders the dramas that ensue when we all want different things.  How the push and pull of relationships leave us suspended in unfathomable social dynamics, always having to second guess what’s going on in the minds of people we encounter, especially when discerning the actions of our bosses and co-workers.  How do we fit in?  How do we make it work?  Why can’t we all just get along?
+### Section II: 'We, why we do' - When we bring ourselves into contact with others
+Section 2, why we do, throws other people into the mix and ponders the dramas that ensue when we all want different things.  How the push and pull of relationships leave us suspended in unfathomable social dynamics, always having to second guess what’s going on in the minds of people we encounter, especially when discerning the actions of our bosses and co-workers.  How do we fit in?  How do we make it work?  Why can’t we all just get along?
 
-### Section 3:
-Section 3 delves into the deeper complexities we encounter in the chaotic world where every decision, every action, has consequential effects and influences over other decisions and other actions in an unknowable and uncontrollable way.  We explore the domain of Systems Thinking to inform our appreciation of Complexity and try to zoom out to ponder the baffling but beautifully organic nature of the ecosystems we co-create.
+### Section III: 'Its, how we do' - Being part of something bigger
+Section 3, how we do, delves into the deeper complexities we encounter in the chaotic world where every decision, every action, has consequential effects and influences over other decisions and other actions in an unknowable and uncontrollable way.  We explore the domain of Systems Thinking to inform our appreciation of Complexity and try to zoom out to ponder the baffling but beautifully organic nature of the ecosystems we co-create.
 
-### Section 4:
-And finally, in Section 4, we apply the emerging philosophies of the previous sections to our actual work as Software Engineers, applying our craft to building solutions which are not only functional but beautiful and ethical too.  This final section integrates all of the previous chapters when applying ourselves to the challenges of writing code with other people in our complex organisations in an uncertain world.
+### Section IV: 'It, what we do' - The actual work of Software Engineering
+And finally, in Section 4, what we do, we apply the emerging philosophies of the previous sections to our actual work as Software Engineers, applying our craft to building solutions which are not only functional but beautiful and ethical too.  This final section integrates all of the previous chapters when applying ourselves to the challenges of writing code with other people in our complex organisations in an uncertain world.
 
 ## Making a difference
 This book will be difficult to categorise.  Some may see it as self-help for geeks, others may see it as a psycho-social-philosophically meandering jerk-off as the author finds himself out of depth trying to make sense of the world and his experiences within it.  Feel free to categorise as you will, read with an open mind, and explore the ideas within your Engineering teams as you strive to make your work as engaging, meaningful and rewarding as possible.
