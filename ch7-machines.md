@@ -58,6 +58,7 @@ People may be seen as interchangeable and easily replaceable, like other compone
 ## Ghosts in the Machine
 
 ## Artificial Intelligence
+AI doesn't have to deal with imposter syndrome, doesn't succumb to burnout, and is incapable of suffering from depression.  Perhaps that's both a strength and a weakness.
 
 ## Change vs Flip Flopping
 
