@@ -30,7 +30,7 @@ The ability of an organism to repair and regenerate damaged or injured tissues w
 
 ## Self-Sustaining
 
-## Self-Replicating
+## Self-Replication and Evolution
 The ability of an organism to produce offspring that are genetically identical to itsel.
 
 ## Self-Improving
@@ -49,7 +49,7 @@ The state or quality of being composed of interconnected parts that are arranged
 The psychological phenomenon in which an individual believes that they have control over events that are actually beyond their control.
 
 ## Bitcoin as an Organism?
-The idea that the decentralised, self-sustaining network of nodes that make up the Bitcoin network can be thought of as an organism with its own unique characteristics and behaviours
+The idea that the decentralised, self-sustaining network of nodes that make up the Bitcoin network can be thought of as an organism with its own unique characteristics and behaviours.
 
 ## Morphic Resonance
 The idea that similar systems can influence each other's behaviour across time and space, even if they are not directly connected.
