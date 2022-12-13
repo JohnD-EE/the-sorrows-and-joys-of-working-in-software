@@ -40,3 +40,6 @@ The virtual blank canvass.  Creativity of the artist.
 ## Poise
 
 ## Resistance
+
+## Inspiration for the Artistically Comprimised
+Advice for the Barbarous - mentoring and training.  Technique, talent, taste. 
