@@ -52,7 +52,8 @@ You can't make grass grow faster by pulling on it.
 
 ## Rules
 
-## People as Fungible Components
+## Dehumanisation
+People as Fungible Components
 People may be seen as interchangeable and easily replaceable, like other components in a system.  This may lead to a lack of value placed on individual contributions and personal development.
 
 ## Ghosts in the Machine
