@@ -48,7 +48,7 @@ This system, which was developed by the Toyota Motor Corporation, is a set of pr
 Six Sigma, originally developed by Motorola, focuses on reducing defects and improving the quality of manufactured products.  In software engineering, Six Sigma principles can be applied to improve the reliability and performance of software systems.
 
 ## Pulling on Grass
-You can't make grass grow faster by pulling on it.
+You can't make grass grow faster by pulling on it.  Or as Fred 'Mythical-Man-Month' Brooks said, "The bearing of a child takes nine months, no matter how many women are assigned."
 
 ## Rules
 
