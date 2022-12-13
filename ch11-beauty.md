@@ -26,3 +26,15 @@ The virtual blank canvass.  Creativity of the artist.
 ## Architectural Carbuncles
 
 ## Consistency
+
+## Avoiding Mediocrity
+
+## Dance
+
+## Music
+
+## Art
+
+## Poise
+
+## Resistance
