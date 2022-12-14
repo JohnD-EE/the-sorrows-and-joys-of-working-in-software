@@ -14,6 +14,8 @@ Tribalism can also lead to a lack of innovation and creativity, as individuals m
 
 Talk about in-group, out-group stuff.
 
+## Us vs Them
+
 ## Conformity
 
 ## Engineering Etiquette
