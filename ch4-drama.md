@@ -8,6 +8,11 @@ This chapter seeks to investigate the many dramas of life in Software Engineerin
 ## A Multiplayer Game
 
 ## Sonder
+Sonder was coined by John Koenig, auththo fo The Dictionary of Obscure Sorrowso to describe the realisation that each passerby has a life as complex and unique as one's own. This concept of the inner lives of others is often described as the "feeling of not being alone" or the recognition of the interconnectedness of humanity.
+
+> n. the realization that each random passerby is living a life as vivid and complex as your own—populated with their own ambitions, friends, routines, worries and inherited craziness—an epic story that continues invisibly around you like an anthill sprawling deep underground, with elaborate passageways to thousands of other lives that you’ll never know existed, in which you might appear only once, as an extra sipping coffee in the background, as a blur of traffic passing on the highway, as a lighted window at dusk.
+
+We develop what psychologists call a 'theory of mind', which is the way we come up with theories about other people's states of mind, what they're thinking, from our observations of their behaviour.
 
 ## Communicating
 
