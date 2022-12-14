@@ -21,4 +21,35 @@ This chapter seeks to investigate the many dramas of life in Software Engineerin
 
 ## Status, Prestige, and Power
 
-## 
+## Dominance Games
+
+## Success Games
+
+## Virtue Games
+
+## Transactions
+
+## Drama Triangles
+
+## Transcending Victim Consciousness
+
+## Pity
+
+## Game Theory
+
+## Dark Tetrat
+
+## Problems and Predicaments
+
+## Confounding Variables
+
+## Situational Awareness
+
+## Tolerance
+
+## Attention
+
+## Solitude
+
+## Play in the Pocket
+
