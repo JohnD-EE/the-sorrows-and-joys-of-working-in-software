@@ -51,5 +51,55 @@ The intent of this chapter is to explore how our universal search for meaning re
 
 ## Happiness
 
-## Kodawari
+## Kodawari - Function, Beauty, Morality
+
+## Ancients
+
+## Judgement
+
+## Lived Experience
+
+## Responsibility
+
+## Peur Aeternus
+
+## Life's Trade-offs
+
+## Curiosity Seeds Innovation
+
+## Journey
+
+## Men & Woment
+
+## Luddite to Transhumanist
+
+## Wisdom
+
+## Levity and Absurdism
+
+## Time Preferences
+
+## Relativity
+
+## Fake Purpose
+
+## Ought Selves
+
+## Meaninglessness
+
+## Conversational Introspection
+
+## Other People's Expectations
+
+## Moments that Matter
+
+## Busyness
+
+## Just being Useful
+
+## Understanding vs Reasoning
+
+## Hope
+
+
 
