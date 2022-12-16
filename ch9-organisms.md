@@ -48,6 +48,9 @@ The state or quality of being composed of interconnected parts that are arranged
 ## Illusion of Control
 The psychological phenomenon in which an individual believes that they have control over events that are actually beyond their control.
 
+## Substrate
+The gardener model
+
 ## Bitcoin as an Organism?
 The idea that the decentralised, self-sustaining network of nodes that make up the Bitcoin network can be thought of as an organism with its own unique characteristics and behaviours.
 
