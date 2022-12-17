@@ -21,9 +21,11 @@ Here we will delve into the way our beliefs are formed, how utterly wrong they c
 
 ## Epistemic Humility
 
+## Throw off your Mental Chains
+
 ## Truth
 
-## Throw off your Mental Chains
+## Heterodoxy
 
 ## Question Authority
 
