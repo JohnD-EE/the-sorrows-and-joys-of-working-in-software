@@ -48,3 +48,8 @@ A sobering thought, however, is that 'no man is an island' from the perspective 
 
 ## Handling your Gift
 
+## Integrity
+
+## Complicity
+
+## You are not Powerless
