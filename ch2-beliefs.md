@@ -13,6 +13,8 @@ Here we will delve into the way our beliefs are formed, how utterly wrong they c
 
 ## Reality Tunnels
 
+## Bias
+
 ## The Sensible Kosmos
 
 ## Counterveiling Views
@@ -29,9 +31,13 @@ Here we will delve into the way our beliefs are formed, how utterly wrong they c
 
 ## Question Authority
 
+## Pattern Recognition
+
 ## Implicit and Explicit Knowledge
 
 ## Ego
+
+## Window Dressing
 
 ## Water
 
@@ -42,8 +48,6 @@ Here we will delve into the way our beliefs are formed, how utterly wrong they c
 ## Performance
 
 ## Imposters
-
-## Soshin
 
 ## Open Source
 
@@ -61,8 +65,16 @@ Here we will delve into the way our beliefs are formed, how utterly wrong they c
 
 ## Neuroplasticity
 
+## Curiosity
+
 ## Potential
 
-## 
+## Soshin
 
+## Paths
 
+## Reticular Activating System
+
+## Utility
+
+## Freedom
