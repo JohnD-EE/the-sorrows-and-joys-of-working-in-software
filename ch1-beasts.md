@@ -14,7 +14,9 @@ As physical beings, humans are influenced by their bodies and their environment.
 At a basic level, humans have a primal instinct for survival.  This includes the desire to find food, shelter, and safety, as well as the ability to protect ourselves and our social groups from harm.
 
 ## Fight, Flight, Freeze
-In response to danger or threat, humans have an instinctual response known as the "fight or flight" response. This involves a sudden release of adrenaline and other hormones that prepares the body for action.  Some people may also experience a "freeze" response, where they become paralysed with fear or indecision.  This response to threat is vital to our survival.
+If we were unable to sense and respond to danger in our ancestral environment, we'd not last long enough to find a mate, procreate, and raise offspring to serve nature's purpose of propegating our genenetics.  Nature bestowed upon us the instinctual 'fight or flight' response to confront or run from danger.  Triggered by a chain of firing synapses within our nervous system, a tiny region of our primitive brain, the hypothalamus, orchestrates the sudden release of stress hormones adrenaline, cortisol and noradrenaline which prepare the body for action.
+
+We may also experience a "freeze" response, where we become paralysed with fear or indecision.
 
 ## Facing the Beast
 To confront and overcome the beast within, it is necessary to face our primal instincts and understand their influence on our thoughts, actions, and behaviours.  This may involve acknowledging and accepting our emotions and desires, as well as learning how to regulate and manage them in a healthy way.
