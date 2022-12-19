@@ -38,6 +38,8 @@ Talk about in-group, out-group stuff.
 
 ## Shared Values and Personal Values
 
+## Vibing as a Team
+
 ## Social Metrics
 
 ## Social Identities
