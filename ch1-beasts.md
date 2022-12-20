@@ -18,6 +18,8 @@ If we were unable to sense and respond to danger in our ancestral environment, w
 
 We may also experience a 'freeze' response, where we become paralysed with fear or indecision.
 
+Context is always relevent.  Our response to threats of danger will vary greatly depending on where we are, who we're with, the time of day, our state of mind, and many other factors.  A rollercoaster ride might be a thrill for many but terrifying for others.  Finding our way when lost in the woods might be a fun challenge with a group of friends, but a different story if we're alone, and it's dark.  For some, the social risk of asking a stranger out to lunch would be to much to bear, best to dine alone.
+
 ## Facing the Beast
 To confront and overcome the beast within, it is necessary to face our primal instincts and understand their influence on our thoughts, actions, and behaviours.  This may involve acknowledging and accepting our emotions and desires, as well as learning how to regulate and manage them in a healthy way.
 
