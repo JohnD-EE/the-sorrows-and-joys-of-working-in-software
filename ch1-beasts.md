@@ -16,7 +16,7 @@ At a basic level, humans have a primal instinct for survival.  This includes the
 ## Fight, Flight, Freeze
 If we were unable to sense and respond to danger in our ancestral environment, we'd not last long enough to find a mate, procreate, and raise offspring to serve nature's purpose of propegating our genenetics.  Nature bestowed upon us the instinctual 'fight or flight' response to confront or run from danger.  Triggered by a chain of firing synapses within our nervous system, a tiny region of our primitive brain, the hypothalamus, orchestrates the sudden release of stress hormones adrenaline, cortisol and noradrenaline which prepare the body for action.
 
-We may also experience a "freeze" response, where we become paralysed with fear or indecision.
+We may also experience a 'freeze' response, where we become paralysed with fear or indecision.
 
 ## Facing the Beast
 To confront and overcome the beast within, it is necessary to face our primal instincts and understand their influence on our thoughts, actions, and behaviours.  This may involve acknowledging and accepting our emotions and desires, as well as learning how to regulate and manage them in a healthy way.
@@ -80,6 +80,6 @@ The phrase "moths to the flame" refers to the idea that we are drawn to things t
 ## Will
 
 ## Will to Power
-The "will to power" is the desire to exert control and influence over one's environment and circumstances.  While it is important to have a sense of agency and control in our lives, it is also important to be mindful of not letting the will to power become destructive or unhealthy. It is important to strike a balance between assertiveness and respect for the needs and boundaries of others.
+The 'will to power' is the desire to exert control and influence over one's environment and circumstances.  While it is important to have a sense of agency and control in our lives, it is also important to be mindful of not letting the will to power become destructive or unhealthy.  It is important to strike a balance between assertiveness and respect for the needs and boundaries of others.
 
 
