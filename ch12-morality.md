@@ -46,6 +46,8 @@ In the many conversations I have with Software Engineers and others in the Softw
 
 A sobering thought, however, is that 'no man is an island' from the perspective of our universal interbeing, and every act, no matter how small, can be the tiny pebble thrown into the ocean of humanity which initiates a ripple effect that reverbersates through all of time and space.  Every choice we make in our day-to-day lives has an ethical aspect.  We can always choose the to do the right thing, no matter how subtle, which can nudge the world in a better direction.
 
+## Progress
+
 ## Handling your Gift
 
 ## Integrity
