@@ -84,4 +84,5 @@ The phrase "moths to the flame" refers to the idea that we are drawn to things t
 ## Will to Power
 The 'will to power' is the desire to exert control and influence over one's environment and circumstances.  While it is important to have a sense of agency and control in our lives, it is also important to be mindful of not letting the will to power become destructive or unhealthy.  It is important to strike a balance between assertiveness and respect for the needs and boundaries of others.
 
+## Transcending the Ego
 
