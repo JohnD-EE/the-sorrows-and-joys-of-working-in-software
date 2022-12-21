@@ -113,7 +113,13 @@ Following Gallwey's examples in his books, here are some reflections on how to p
 
 I can relate personally to the thinking from the inner game, not only in the various sports I've tried over the years, but also in learning and performing with musical instruments.  I play the guitar, an instrument that is very unforgiving of 'mistakes', especially when played through a 100 Watt amplifier.  A guitar string can be plucked in so many different ways, each creating a different shape to the sound.  Likewise, a note can be 'bent' up to resonate at different tone, it can be wobbled to cause vibrato, with slide, legato or even muted.  A guitar player is actively listening to the notes played in a constant feedback loop so that more or less pressure can be applied along with other modifications to reach the intended sound.  In effect, every note is a 'mistake' as the play wrestles the steel and nickel wound strings to resonate 'correctly' aginst the wood of the fretboard.  It can be easy to imagine yourself sounding like Jimi Hendrix playing along to a jam track in your own bedroom, but when you are performing to an audience of real people, you will notice your Self 1 taking over, aware and attentive to every unintend note, so much more noticable to the player than the crowd of people enjoying the music.
 
+
 ## Hammock Time
+Rich Hickey is a distinguished software engineer, speaker and designer who is known for authoring the programming language Clojure and his contributions to the field of software design. "Hammock Time" is a term that Hickey uses to describe the importance of taking time to reflect and think deeply about complex problems and ideas.
+
+Hickey argues that in order to solve complex problems and create innovative solutions, it is necessary to take regular breaks from the demands of daily life and work and allow ourselves the time and space to think deeply and reflect on what we are doing. He suggests that this can be done by finding a quiet, comfortable place to relax, such as a hammock, and allowing ourselves to let our minds wander and explore new ideas.
+
+Hickey claims numerous benefits of Hammock Time are numerous, including increased creativity, improved problem-solving skills, and greater overall productivity.  By taking regular breaks to engage in deep thinking and reflection, we can gain a clearer perspective on the problems and challenges we face, and be better equipped to find creative and effective solutions.
 
 ## Will
 
