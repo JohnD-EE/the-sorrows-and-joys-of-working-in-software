@@ -45,6 +45,8 @@ You are Hitler, Jesus and Cleopatra
 
 ## Karma
 
+## Egolessness
+
 ## System 3 Thinking
 
 ## Mind at Large
