@@ -66,7 +66,20 @@ Quietening Self 1 requires us not to judge our actions as right or wrong, and to
 
 Act the part - Embrace challenges - 
 
-Just as in the inner game of tennis or golf, the key to success in the inner game of coding is to recognize and overcome these mental and emotional obstacles.  It's not about the external challenges you face, but rather how you approach and respond to them internally.  How you can successfully play the inner game of coding?
+Just as in the inner game of tennis or golf, the key to success in the inner game of coding is to recognize and overcome these mental and emotional obstacles.  It's not about the external challenges you face, but rather how you approach and respond to them internally.  
+
+Here are some reflections on how to play the inner game of coding?
+
+* The inner game of coding is played at the Razor's Edge, the edge of consciousness, or the point at which we are most aware of ourselves and the world around us.
+* Be mindful that you are playing an inner game, the outcome of which is the outer game of creating a Pull Request.
+* Find a path to a state of grace when you are coding, appreciate the need for a calm mind.
+* Realise that your opponent is not the person standing the other side of the net, it is you.
+* The primary aim of the inner game when coding, or thinking, is to overcome self-interference and your self-imposed limitations.
+* The inner game of coding is one that is played against your own habitual ways of getting in your own way.
+* Outer game rewards of approval, recognition and success are not as important as the inner game rewards gained from personal and subjective experience.
+* Outer games are usually finite games, there's a winner and an ending to the game.  Inner games are infinite, the aim is simply to keep playing.
+* Coding solutions to challenging problems should feel like play.  We play games for fun, for love.  If it doesn't feel like play, you may be wise to change the game, or change the venue in which you are playing the game.
+
 
 I can relate personally to the thinking from the inner game, not only in the various sports I've tried over the years, but also in learning and performing with musical instruments.  I play the guitar, an instrument that is very unforgiving of 'mistakes', especially when played through a 100 Watt amplifier.  A guitar string can be plucked in so many different ways, each creating a different shape to the sound.  Likewise, a note can be 'bent' up to resonate at different tone, it can be wobbled to cause vibrato, with slide, legato or even muted.  A guitar player is actively listening to the notes played in a constant feedback loop so that more or less pressure can be applied along with other modifications to reach the intended sound.  In effect, every note is a 'mistake' as the play wrestles the steel and nickel wound strings to resonate 'correctly' aginst the wood of the fretboard.  It can be easy to imagine yourself sounding like Jimi Hendrix playing along to a jam track in your own bedroom, but when you are performing to an audience of real people, you will notice your Self 1 taking over, aware and attentive to every unintend note, so much more noticable to the player than the crowd of people enjoying the music.
 
