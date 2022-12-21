@@ -55,3 +55,5 @@ A sobering thought, however, is that 'no man is an island' from the perspective 
 ## Complicity
 
 ## You are not Powerless
+
+## Judgement
