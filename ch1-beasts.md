@@ -104,6 +104,7 @@ Following Gallwey's examples in his books, here are some reflections on how to p
 * Realise that your opponent is not the person standing the other side of the net, it is you.
 * The primary aim of the inner game when coding, or thinking, is to overcome self-interference and your self-imposed limitations.
 * The inner game of coding is one that is played against your own habitual ways of getting in your own way.
+* Code Katas our the practice drills of Software Engineering, practicing our rudiments and making them an automatic Self 2 knowing.
 * Our unforced errors are due to our haste, anxiety, lack of practice, lack of energy, or not setting boundaries within our environment.
 * Your desire for perfection is noble, but it may get in the way when you constantly judge your work from a perfectionist mindset, from the ego of Self 1.
 * If you don't understand something right now, trust that your Self 2 can learn what it needs to.
