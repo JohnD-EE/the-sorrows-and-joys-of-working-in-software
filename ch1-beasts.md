@@ -94,7 +94,7 @@ Quietening Self 1 requires us not to judge our actions as right or wrong, and to
 
 Act the part - Embrace challenges - 
 
-Just as in the inner game of tennis or golf, the key to success in the inner game of coding is to recognize and overcome these mental and emotional obstacles.  It's not about the external challenges you face, but rather how you approach and respond to them internally.  
+Just as in the inner game of tennis or golf, the key to success in the inner game of coding is to recognize and overcome these mental and emotional obstacles.  The inner game in software enegineering, when Self 1 takes over, is one of self-doubt, anxiety, self-condemnation, and lapses in concentration.  The outer game is the external challenges, the tasks at hand, but the inner game how you approach and respond to them internally.  
 
 Following Gallwey's examples in his books, here are some reflections on how to play the inner game of coding?
 
@@ -105,6 +105,8 @@ Following Gallwey's examples in his books, here are some reflections on how to p
 * The primary aim of the inner game when coding, or thinking, is to overcome self-interference and your self-imposed limitations.
 * The inner game of coding is one that is played against your own habitual ways of getting in your own way.
 * Our unforced errors are due to our haste, anxiety, lack of practice, lack of energy, or not setting boundaries within our environment.
+* Your desire for perfection is noble, but it may get in the way when you constantly judge your work from a perfectionist mindset, from the ego of Self 1.
+* If you don't understand something right now, trust that your Self 2 can learn what it needs to.
 * Outer game rewards of approval, recognition and success are not as important as the inner game rewards gained from personal and subjective experience.
 * Outer games are usually finite games, there's a winner and an ending to the game.  Inner games are infinite, the aim is simply to keep playing.
 * Coding solutions to challenging problems should feel like play.  We play games for fun, for love.  If it doesn't feel like play, you may be wise to change the game, or change the venue in which you are playing the game.
