@@ -57,3 +57,5 @@ A sobering thought, however, is that 'no man is an island' from the perspective 
 ## You are not Powerless
 
 ## Judgement
+
+## Principles
