@@ -50,8 +50,6 @@ A sobering thought, however, is that 'no man is an island' from the perspective 
 
 ## Handling your Gift
 
-## Integrity
-
 ## Complicity
 
 ## You are not Powerless
@@ -59,6 +57,9 @@ A sobering thought, however, is that 'no man is an island' from the perspective 
 ## Judgement
 
 ## Principles
+
+## Integrity
+We demonstrate integrity when our principles are strongly consistent with our actions.
 
 ## Head, Heart and Guts
 This book has deliberately ventured outside of conservative thinking to explore different perspectives on Software Engineering.  
