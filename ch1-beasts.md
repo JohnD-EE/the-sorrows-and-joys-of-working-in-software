@@ -51,7 +51,17 @@ To fully integrate the beast within, it is important to learn to accept and ackn
 Human behaviour is not fixed or unchanging.  We have the ability to adapt, change, and grow over time.  By learning to be more self-aware and self-reflective, we can better understand and manage our thoughts, feelings, and behaviors, and make conscious choices about the direction of our lives.  "Yes,there are two paths you can go by, but in the long run, there's still time to change the road you're on." - Led Zepelin, Stairway to Heaven.
 
 ## State Management
-To effectively navigate the vicissitudes of our hidden emotional lives, it is important to learn how to manage our emotional states.  This may involve developing coping skills and strategies for regulating our emotions, such as mindfulness, self-reflection, and relaxation techniques.  We can also take control of our physical bodies, the food we eat and our daily exercise levels.  Motivation to work, to code, to learn, depends on our bodies to generate sufficient energy to do so.  Squander our physical, emotional and spiritual health and sooner or later we lose the energy to do the things we want to do.  
+To effectively navigate the vicissitudes of our hidden emotional lives, it is important to learn how to manage our emotional states.  This may involve developing coping skills and strategies for regulating our emotions, such as mindfulness, self-reflection, and relaxation techniques.  We can also take control of our physical bodies, the food we eat and our daily exercise levels.  Motivation to work, to code, to learn, depends on our bodies to generate sufficient energy to do so.  Squander our physical, emotional and spiritual health and sooner or later we lose the energy to do the things we want to do.
+
+The heavy cognitive demands of Software Engineering may be compared to the experiences of Vincent Van Gogh as expressed in a letter to his brother Theo on July 1st 1888: 
+
+"Work and dry calculation, in which one’s mind is extremely stretched, like an actor on the stage in a difficult role, where you have to think of a thousand things at the same time in a single half hour.  Afterwards, the only thing that comforts and distracts, in my case, as in others, is to stun oneself by taking a stiff drink or smoking very heavily".
+
+Van Gogh's poison of choice was the liquor Absinthe, a strong, anise-flavored liquor that is traditionally made from a combination of herbs, including wormwood, anise, fennel, and other botanicals, typically served diluted with water and sweetened with sugar.  Absinthe has a long and colorful history, popular in Europe in the 19th and early 20th centuries, it was associated with bohemian culture and favoured among artists and writers.
+
+Van Gogh was known to have had a difficult relationship with alcohol, and he struggled with addiction throughout his life.  He often drank heavily, particularly when he was feeling stressed or depressed.  It is believed that he may have turned to absinthe as a way to cope with the challenges he faced as an artist, including financial struggles and mental health issues.
+
+Our modern world offers a variety of comforts and distractions available with which to stun oursleves.  Fast foods, booze, drugs, video games and social media provide easy escapism.
 
 ## Ephemerality
 Human emotions and states of mind are often temporary and fleeting.  By learning to let go of negative emotions and embrace positive ones, we can better navigate the ups and downs of life.
