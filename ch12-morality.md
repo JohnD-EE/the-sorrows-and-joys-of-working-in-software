@@ -59,3 +59,9 @@ A sobering thought, however, is that 'no man is an island' from the perspective 
 ## Judgement
 
 ## Principles
+
+## Head, Heart and Guts
+This book has deliberately ventured outside of conservative thinking to explore different perspectives on Software Engineering.  
+
+
+Gut Intuition
