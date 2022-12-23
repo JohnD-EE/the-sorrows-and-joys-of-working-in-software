@@ -25,6 +25,8 @@ The intent of this chapter is to explore how our universal search for meaning re
 
 ## Momentum
 
+## Passion
+
 ## Purpose
 
 ## Unfolding
