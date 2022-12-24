@@ -64,5 +64,6 @@ We demonstrate integrity when our principles are strongly consistent with our ac
 ## Head, Heart and Guts
 This book has deliberately ventured outside of conservative thinking to explore different perspectives on Software Engineering.  
 
+Doing the right thing requires guts, raw courage, fortitude.  You can be the hero of your own journey, not necesarily through grand acts of defiance risking all for your principles, but through small everyday acts of courage, whether it is setting sensible boundaries with others, challenging a colleague's solution design, or politely dissagreeing with a 'superior' in the organisational hierarchy.  This requires honesty, vulnerability, and a willingness to take a risk, but it also requires care and empathy for the person being challenged.  We all have different tolerance levels to social risk, simply saying 'no' can feel as threatening as the possibility of being physically attacked.  Standing up for what is right becomes easier with practice.
 
 Gut Intuition
