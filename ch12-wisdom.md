@@ -1,4 +1,4 @@
-# Chapter 12: Morality
+# Chapter 12: Wisdom
 
 ## Intent:
 We live in an era of exponentiating social problems and global predicaments tempered with the promise of exponentiating advancements in technology with which to solve them.  However, the rapid pace of technological change also presents new challenges and ethical dilemmas and the ability of societies and governments to adapt to and effectively utilise technology effectively is dubious, to say the least.  Our stone age emotions and mediaeval institutions leave us poorly equipped to deal with the 'Promethean Gap' as we are incapable of imagining the consequences of our creations.  Responsible and ethical use of technology is far from guaranteed, and conversations about the morality of what we do with our God-like capacity to build anything we conceive in the digital landscape has never been more existentially important.  Our technical prowess is creating an ever larger Promethean Gap way beyond our human capacity to deal with it, raising a slew of ethical questions and concerns.  Technology augments our brilliance, but can also exponentially amplify our collective ignorance.
