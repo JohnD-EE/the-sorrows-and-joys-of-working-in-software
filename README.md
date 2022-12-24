@@ -36,7 +36,7 @@ A book to help people in the Software Engineering ecosystem to navigate the non-
 
 * [Chapter 10: Function](ch10-function.md)
 * [Chapter 11: Beauty](ch11-beauty.md)
-* [Chapter 12: Morality](ch12-morality.md)
+* [Chapter 12: Wisdom](ch12-wisdom.md)
 
 
 ----
