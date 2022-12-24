@@ -61,6 +61,8 @@ The intent of this chapter is to explore how our universal search for meaning re
 
 ## Lived Experience
 
+## Intuition
+
 ## Responsibility
 
 ## Peur Aeternus
