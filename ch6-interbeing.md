@@ -17,7 +17,7 @@ The aim of this chapter is to think about our close coupling to everything, to t
 
 ## Ptolemaic
 
-## Determinism
+## Root Cause Analysis
 Everything is a Root Cause
 
 ## The Story of Separation
