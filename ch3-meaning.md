@@ -8,6 +8,9 @@ The intent of this chapter is to explore how our universal search for meaning re
 ## Meaninglessness
 Many of us will struggle all of our lives with our search for ultimate meaning as we meander baffled and bewildered towards our graves.  Some will find solace in a belief system, devoting themselves to a pre-made meaning from religion, or perhaps latchning on to the latest theories of science.  Others may cling to a sense of enlightenment they've derived from a study of philosophy, or some kind of spiritual practice.  Personally, pondering ultimate meaning, why we are here, where we came from, where are we headed, what the heck does it all meany anyway, has consumed much of my cognitive and emotional energy.  The closest I've come to discovering what it's all about is inspired by the words of Kurt Vonnegut: "I tell you, we are here on Earth to fart around, and don't let anybody tell you different".  That's the key for me, to appreciate that the elusiveness of ultimate meaning is the very thing that makes life worth living.  If we were given a meaning, it would take away our freedom to live out our lives in the way of our choosing.  It would take away all self expression, all creativity, all aspiration.  It would be like your boss giving you a goal that you had no involvement in agreeing to.
 
+
+I must confess that the idea that meaningless could be so liberating hasn't fully dawned on me until writing this book.  
+
 ## Knock Knock Neo
 
 ## Mystery
