@@ -5,6 +5,8 @@ The study of Sociology is arguably as relevant to Software Engineering as Comput
 
 This chapter looks at how our tribal tendancies affect our thoughts, feelings and behaviours, with the aim of helping us to collaborate more wisely in groups of fellow humans.
 
+## The Individual vs The Collective
+
 ## Tribes of Engineers
 Tribalsim in Software Engineering
 
