@@ -5,6 +5,8 @@ One of the defining characteristics of the human species is our ability to inven
 
 This chapter explores the ways our ubiquitous mechanistic thinking influences our work in the Software industry and how that affects us as human beings.
 
+## The Industrial Age Organisational Model
+
 ## Factories
 The factory mindset refers to the idea of organising people and companies in a similar way to how machines and processes are organised in a factory.
 
@@ -67,3 +69,14 @@ AI doesn't have to deal with imposter syndrome, doesn't succumb to burnout, and 
 
 ## Interview Conveyor Belt
 
+## Efficiency
+
+## Productivity
+
+## Hurry Sickness
+
+## Achievement Addiction
+
+## Dehumanisation
+
+## Agile
