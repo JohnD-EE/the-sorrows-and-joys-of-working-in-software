@@ -130,5 +130,5 @@ And I learned to relax, and I learned to soften, and that dance got easier
 It is this eternal dance that separates human beings from angels, from demons, from gods
 And I must not forget, we must not forget, that we are human beings"
 
-
+Hope is often seen as a naive illusion.  It's easy to wish for things, to think positively and have faith that things will get better.  But dreams are the fantasy of the lazy who find their hopes are dashed on the rocky shores of reality.  In Ren's this case, hope is not naive optimism, but a subtle acceptance of the whole of life, the light and the dark, and and understanding that there will be moments of overcomming along with moments of succumbing, and it is the expectation that you can have one without the other is the source of naivity.  Nihilism and hope are equally naive responses to the human condition.  Hope is equivocal to understanding our absuridity, to laugh at life despite the suffering. 
 
