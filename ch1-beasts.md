@@ -6,6 +6,7 @@ Putting the possibility of alien insemination of the human race or any other cre
 The aim of this chapter is to explore the beast that lurks within, and how we navigate the vicissitudes of our hidden emotional life whilst maintaining the controlled superficial poise of a rational professional person working in Software.
 
 ## Computers don't have Eyebrows
+"I can't be a better software engineer than I am a person." — Kent Beck
 
 ## Embodied
 As physical beings, humans are influenced by their bodies and their environment.  Our senses, movements, and physical sensations all play a role in shaping our thoughts, feelings, and behaviours.
